@@ -88,6 +88,6 @@ face-recognition-attendance-emotion/
 
 👨‍💻 Author
 
-Himesh Tyagi
+**Himesh Tyagi**  
 B.Tech in Computer Science
 Data Analytics & Machine Learning Enthusiast
