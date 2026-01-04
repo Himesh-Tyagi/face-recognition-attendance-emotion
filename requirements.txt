@@ -1,0 +1,15 @@
+opencv-python
+face-recognition
+dlib
+pandas
+numpy
+fer
+
+
+✅ Notes (important but optional to add in README)
+
+→ Python version: 3.8 – 3.11 (recommended)
+
+→ dlib is required by face_recognition
+
+→ Webcam is required for real-time detection
