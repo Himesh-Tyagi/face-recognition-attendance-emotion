@@ -90,4 +90,5 @@ face-recognition-attendance-emotion/
 
 **Himesh Tyagi**  
 **B.Tech in Computer Science**
-Data Analytics & Machine Learning Enthusiast
+**Data Analytics & Machine Learning Enthusiast**
+
